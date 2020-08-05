@@ -19,21 +19,21 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: Material for MkDocs
-site_url: https://squidfunk.github.io/mkdocs-material/
-site_author: Martin Donath
+site_name: Live Portfolio
+site_url: https://jonherke.github.io/live-portfolio/
+site_author: Jon Herke
 site_description: >-
-  Create a branded static site from a set of Markdown files to host the
-  documentation of your Open Source or commercial project – customizable,
-  searchable, mobile-friendly, 40+ languages
+  A place for others to explore a live portfolio hub 
+  of innovative STEM focused projects and use cases
+  by many innovative talented individuals.
 
 # Repository
-repo_name: squidfunk/mkdocs-material
-repo_url: https://github.com/squidfunk/mkdocs-material
+repo_name: jonherke/live-portfolio
+repo_url: https://github.com/jonherke/live-portfolio
 edit_uri: ""
 
 # Copyright
-copyright: Copyright &copy; 2016 - 2020 Martin Donath
+copyright: Copyright &copy; 2020 Jon Herke
 
 # Configuration
 theme:
@@ -69,20 +69,20 @@ plugins:
   - search
   - redirects:
       redirect_maps:
-        extensions/admonition.md: reference/admonitions.md
-        extensions/codehilite.md: reference/code-blocks.md
-        extensions/footnotes.md: reference/footnotes.md
-        extensions/metadata.md: reference/meta-tags.md
-        extensions/permalinks.md: setup/setting-up-navigation.md #permalink
-        extensions/pymdown.md: reference/admonitions.md
-        plugins/search.md: setup/setting-up-site-search.md
-        # plugins/minification.md:
-        plugins/revision-date.md: setup/adding-a-git-repository.md #revision-date
-        # plugins/awesome-pages.md:
-        releases/4.md: upgrading.md #upgrading-from-4x-to-5x
-        releases/5.md: upgrading.md #upgrading-from-3x-to-4x
-        releases/changelog.md: changelog.md
-        sponsorship.md: insiders.md
+        # extensions/admonition.md: reference/admonitions.md
+        # extensions/codehilite.md: reference/code-blocks.md
+        # extensions/footnotes.md: reference/footnotes.md
+        # extensions/metadata.md: reference/meta-tags.md
+        # extensions/permalinks.md: setup/setting-up-navigation.md #permalink
+        # extensions/pymdown.md: reference/admonitions.md
+        # plugins/search.md: setup/setting-up-site-search.md
+        # # plugins/minification.md:
+        # plugins/revision-date.md: setup/adding-a-git-repository.md #revision-date
+        # # plugins/awesome-pages.md:
+        # releases/4.md: upgrading.md #upgrading-from-4x-to-5x
+        # releases/5.md: upgrading.md #upgrading-from-3x-to-4x
+        # releases/changelog.md: changelog.md
+        # sponsorship.md: insiders.md
   - minify:
       minify_html: true
 
@@ -126,8 +126,8 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.magiclink:
       repo_url_shorthand: true
-      user: squidfunk
-      repo: mkdocs-material
+      user: jonherke
+      repo: live-portfolio
   - pymdownx.mark
   - pymdownx.smartsymbols
   - pymdownx.snippets:
@@ -142,43 +142,20 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Getting started:
-    - Installation: getting-started.md
-    - Creating your site: creating-your-site.md
-    - Publishing your site: publishing-your-site.md
-    - Customization: customization.md
-    - Troubleshooting: troubleshooting.md
-    - Data privacy: data-privacy.md
-    - Insiders: insiders.md
-    - License: license.md
-  - Setup:
-    - Changing the colors: setup/changing-the-colors.md
-    - Changing the fonts: setup/changing-the-fonts.md
-    - Changing the language: setup/changing-the-language.md
-    - Changing the logo and icons: setup/changing-the-logo-and-icons.md
-    - Setting up navigation: setup/setting-up-navigation.md
-    - Setting up site search: setup/setting-up-site-search.md
-    - Setting up site analytics: setup/setting-up-site-analytics.md
-    - Adding social links: setup/adding-social-links.md
-    - Adding a git repository: setup/adding-a-git-repository.md
-    - Adding a comment system: setup/adding-a-comment-system.md
-    #- Adding an announcement bar: setup/adding-an-announcement-bar.md
-    #- Adding a landing page: setup/adding-a-landing-page.md
-  - Reference:
-    - Admonitions: reference/admonitions.md
-    - Buttons: reference/buttons.md
-    - Code blocks: reference/code-blocks.md
-    - Content tabs: reference/content-tabs.md
-    - Footnotes: reference/footnotes.md
-    - Formatting: reference/formatting.md
-    - Icons + Emojis: reference/icons-emojis.md
-    - Images: reference/images.md
-    - Lists: reference/lists.md
-    - MathJax: reference/mathjax.md
-    - Meta tags: reference/meta-tags.md
-  - Changelog:
-    - Release notes: changelog.md
-    - Upgrading: upgrading.md
-    - Deprecations: deprecations.md
+    - Overview: getting-started.md
+
+  - Demos:
+    - Overview: demos/demos.md
+
+  - Projects:
+    - Overview: projects/projects.md
+
+  - Blogs:
+    - Featured: blogs/blogs.md
+
+  - About:
+    - About: about.md
+
 
 # Google Analytics
 google_analytics:
