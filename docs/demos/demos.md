@@ -23,11 +23,11 @@ template: overrides/main.html
     Coming Soon!
 
 
-## Voice Search
+## Graph Walkthrough
 
 === "Description"
     
-    **Tags:** `Python` `Voice` `AWS` `Artificial Intelligence` `Machine Learning` `Graph` `NLP` `Natural Language Processing` `Streamlit` 
+    **Tags:** `Artificial Intelligence` `Machine Learning` `Graph` `NLP` `Natural Language Processing` `Streamlit` `Python` `Visualization` `SciSpacy`
 
     [Launch](#){: .md-button }
 
@@ -39,60 +39,12 @@ template: overrides/main.html
 
     Coming Soon!
 
-## Alexa TigerGraph
-
-=== "Description"
-    
-    **Tags:** `Alexa` `AWS` `Artificial Intelligence` `Machine Learning` `Graph` `NLP` `Natural Language Processing`
-
-    [Launch](https://link.medium.com/hlZ62ITMA7){: .md-button }
-
-=== "More Info"
-
-    **Author:** 
-
-=== "Screenshots"
-
-    Coming Soon!
 
 ## Med Search
 
 === "Description"
     
     **Tags:** `Streamlit` `Python` `Visualization` `SciSpacy` ` Flask` `Artificial Intelligence` `Machine Learning` `Graph` `NLP` `Natural Language Processing` 
-
-    [Launch](#){: .md-button }
-
-=== "More Info"
-
-    **Author:** 
-
-=== "Screenshots"
-
-    Coming Soon!
-
-
-## Knowledge Chatbot
-
-=== "Description"
-    
-    **Tags:** `Artificial Intelligence` `Machine Learning` `Graph` `NLP` `Natural Language Processing` `Streamlit` `Python` `Visualization` `SciSpacy`
-
-    [Launch](#){: .md-button }
-
-=== "More Info"
-
-    **Author:** 
-
-=== "Screenshots"
-
-    Coming Soon!
-
-## Streamlit TigerGraph GeoTracing Visualization
-
-=== "Description"
-    
-    **Tags:** `Artificial Intelligence` `Machine Learning` `Graph` `NLP` `Natural Language Processing` `Streamlit` `Python` `Visualization` `SciSpacy`
 
     [Launch](#){: .md-button }
 
@@ -121,11 +73,97 @@ template: overrides/main.html
 
     Coming Soon!
 
+
+## Knowledge Chatbot
+
+=== "Description"
+    
+    **Tags:** `Artificial Intelligence` `Machine Learning` `Graph` `NLP` `Natural Language Processing` `Streamlit` `Python` `Visualization` `SciSpacy`
+
+    [Launch](#){: .md-button }
+
+=== "More Info"
+
+    **Author:** 
+
+=== "Screenshots"
+
+    Coming Soon!
+
+
+## API Library Infrastructure
+
+=== "Description"
+    
+    **Tags:** `Artificial Intelligence` `Machine Laerning` `Graph` `NLP` `Natural Language Processing` `Streamlit` `Python` `Visualization` `SciSpacy`
+
+    [Launch](#){: .md-button }
+
+=== "More Info"
+
+    **Author:** Kelly
+
+=== "Screenshots"
+
+    Coming Soon!
+
+
+## Voice Search
+
+=== "Description"
+    
+    **Tags:** `Python` `Voice` `AWS` `Artificial Intelligence` `Machine Learning` `Graph` `NLP` `Natural Language Processing` `Streamlit` 
+
+    [Launch](#){: .md-button }
+
+=== "More Info"
+
+    **Author:** Rohan
+
+=== "Screenshots"
+
+    Coming Soon!
+
+
+## Alexa TigerGraph
+
+=== "Description"
+    
+    **Tags:** `Alexa` `AWS` `Artificial Intelligence` `Machine Learning` `Graph` `NLP` `Natural Language Processing`
+
+    [Launch](https://link.medium.com/hlZ62ITMA7){: .md-button }
+
+=== "More Info"
+
+    **Author:** 
+
+=== "Screenshots"
+
+    Coming Soon!
+
+
 ## Tumor Scanner
 
 === "Description"
     
     **Tags:** `Artificial Intelligence` `Machine Learning` `Graph` `Streamlit` `Python` `Visualization` `SciSpacy`
+
+    [Launch](#){: .md-button }
+
+=== "More Info"
+
+    **Author:** 
+
+=== "Screenshots"
+
+    Coming Soon!
+
+
+## Streamlit TigerGraph GeoTracing Visualization
+
+=== "Description"
+    
+    **Tags:** `Artificial Intelligence` `Machine Learning` `Graph` `NLP` `Natural Language Processing` `Streamlit` `Python` `Visualization` `SciSpacy`
 
     [Launch](#){: .md-button }
 
@@ -158,21 +196,6 @@ template: overrides/main.html
 
     Coming Soon!
 
-## API Library Infrastructure
-
-=== "Description"
-    
-    **Tags:** `Artificial Intelligence` `Machine Laerning` `Graph` `NLP` `Natural Language Processing` `Streamlit` `Python` `Visualization` `SciSpacy`
-
-    [Launch](#){: .md-button }
-
-=== "More Info"
-
-    **Author:** 
-
-=== "Screenshots"
-
-    Coming Soon!
 
 ## Giraffle Scripting GSQL Solutions
 
@@ -190,21 +213,6 @@ template: overrides/main.html
 
     Coming Soon!
 
-## Graph Walkthrough
-
-=== "Description"
-    
-    **Tags:** `Artificial Intelligence` `Machine Learning` `Graph` `NLP` `Natural Language Processing` `Streamlit` `Python` `Visualization` `SciSpacy`
-
-    [Launch](#){: .md-button }
-
-=== "More Info"
-
-    **Author:** 
-
-=== "Screenshots"
-
-    Coming Soon!
 
 ## Conditions Graph Machine Learning
 
