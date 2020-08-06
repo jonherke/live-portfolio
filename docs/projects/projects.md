@@ -17,7 +17,9 @@ Find all data that has any relevance to the medical space and bring that data to
 * Have a direct impact on individuals lives in the community
 
 ## Robotic Assistant
+
 Tech stack for this project:
+
 === "Software"
     * ROS/Python for logic and interaction with robot simulation in Gazebo and raspberry pi (using https://rds.theconstructsim.com/ for simulation and ROS workspace)
     * Node-red for interfacing with ROS from Alexa or other voice-command apis, possible joystick/phone control, and other control methods to send information
