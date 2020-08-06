@@ -141,11 +141,11 @@ markdown_extensions:
 # Page tree
 nav:
   - Home: index.md
-  - Getting started:
+  - Getting Started:
     - Overview: getting-started.md
 
   - Demos:
-    - Overview: demos/demos.md
+    - Active Demos: demos/demos.md
 
   - Projects:
     - Overview: projects/projects.md
