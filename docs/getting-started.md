@@ -9,7 +9,7 @@ Welcome to the innovation hub of the future. This live portofolio shows the art 
 
 ## The Standup
 
-[![Placeholder](assets/screenshots/standup.png){ align=left }](https://trello.com/b/V3xBXEdD/futurist-academy-project-board)
+[![Placeholder](assets/screenshots/standup.png)](https://trello.com/b/V3xBXEdD/futurist-academy-project-board)
 
 ## Who is Online?
 
