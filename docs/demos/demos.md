@@ -40,13 +40,13 @@ template: overrides/main.html
     Coming Soon!
 
 
-## Med Search
+## Member Journey
 
 === "Description"
     
-    **Tags:** `Streamlit` `Python` `Visualization` `SciSpacy` ` Flask` `Artificial Intelligence` `Machine Learning` `Graph` `NLP` `Natural Language Processing` 
+    **Tags:** `Artificial Intelligence` `Machine Learning` `Graph` `NLP` `Natural Language Processing` `Streamlit` `Python` `Visualization` `SciSpacy`
 
-    [Launch](#){: .md-button }
+    [Launch](https://synthea-patient-dashboard.herokuapp.com/){: .md-button }
 
 === "More Info"
 
@@ -56,14 +56,13 @@ template: overrides/main.html
 
     Coming Soon!
 
-
-## Member Journey
+## Med Search
 
 === "Description"
     
-    **Tags:** `Artificial Intelligence` `Machine Learning` `Graph` `NLP` `Natural Language Processing` `Streamlit` `Python` `Visualization` `SciSpacy`
+    **Tags:** `Streamlit` `Python` `Visualization` `SciSpacy` ` Flask` `Artificial Intelligence` `Machine Learning` `Graph` `NLP` `Natural Language Processing` 
 
-    [Launch](https://synthea-patient-dashboard.herokuapp.com/){: .md-button }
+    [Launch](#){: .md-button }
 
 === "More Info"
 
